@@ -36,7 +36,7 @@ public interface ThemeUpdateListener
 }
 
 
-public class ThemeManagera
+public class ThemeManager
 {
 
     public static Integer _currentTheme = R.style.NightTheme;
